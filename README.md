@@ -2,29 +2,28 @@
 
 ### Demo
 
-1. Homepage
+1. **Homepage**
 
 ![Homepage](https://github.com/Van-Hoang-Kha/AWS-FCJ-Management/blob/master/images/homepage.png)
 
-2. View User
+2. **View User**
 
 ![Viewuser](https://github.com/Van-Hoang-Kha/AWS-FCJ-Management/blob/master/images/viewuser.png)
 
-3. Add User
+3. **Add User**
 
 ![Add user](https://github.com/Van-Hoang-Kha/AWS-FCJ-Management/blob/master/images/adduser.png)
 
-4. Edit User
+4. **Edit User**
 
 ![Edituser](https://github.com/Van-Hoang-Kha/AWS-FCJ-Management/blob/master/images/edituser.png)
 
-5. Delete User
+5. **Delete User**
 
 ![Deleteuser](https://github.com/Van-Hoang-Kha/AWS-FCJ-Management/blob/master/images/deleteuser.png)
 
 ### How to usage
 1. Git clone repository
-
 ```
 https://github.com/Van-Hoang-Kha/AWS-FCJ-Management
 ```
@@ -39,7 +38,6 @@ https://github.com/Van-Hoang-Kha/AWS-FCJ-Management
 ```
 npm install express dotenv express-handlebars body-parser mysql
 ```
-
 ### Configuration Server
 Create a .env file and add your database credentials like this:
 ```
@@ -64,7 +62,6 @@ npm start
 ```
 CREATE TABLE `usermanagement_tut`.`user` ( `id` INT NOT NULL AUTO_INCREMENT , `first_name` VARCHAR(45) NOT NULL , `last_name` VARCHAR(45) NOT NULL , `email` VARCHAR(45) NOT NULL , `phone` VARCHAR(45) NOT NULL , `comments` TEXT NOT NULL , `status` VARCHAR(10) NOT NULL DEFAULT 'active' , PRIMARY KEY (`id`)) ENGINE = InnoDB;
 ```
-
 ### SQL Dummy Data
 
 ```
