@@ -6,6 +6,22 @@
 
 ![Homepage](https://github.com/Van-Hoang-Kha/AWS-FCJ-Management/blob/master/images/homepage.png)
 
+2. View User
+
+![Viewuser](https://github.com/Van-Hoang-Kha/AWS-FCJ-Management/blob/master/images/viewuser.png)
+
+3. Add User
+
+![Add user](https://github.com/Van-Hoang-Kha/AWS-FCJ-Management/blob/master/images/adduser.png)
+
+4. Edit User
+
+![Edituser](https://github.com/Van-Hoang-Kha/AWS-FCJ-Management/blob/master/images/edituser.png)
+
+5. Delete User
+
+![Deleteuser](https://github.com/Van-Hoang-Kha/AWS-FCJ-Management/blob/master/images/deleteuser.png)
+
 ### How to usage
 1. Git clone repository
 
